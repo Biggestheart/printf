@@ -52,7 +52,6 @@ git clone https://github.com/Biggestheart/printf
 
 ## EXAMPLES ##
 - _printf functions examples:
-
 - _printf("Character:[%c]\n", 'H');
   + Output: char: [H]
 - _printf("String:[%s]\n", "I am a string !");
