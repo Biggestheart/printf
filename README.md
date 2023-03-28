@@ -62,4 +62,4 @@ git clone https://github.com/Biggestheart/printf
   + Output: Percent: [%%]
 
 
-###Created by [Anietie Lawrence Essien](https://github.com/Biggestheart/) & [Beauty Scribbles](https://github.com/beautyscribbles/).
+###Created by [Anietie Lawrence Essien](https://github.com/Biggestheart/) & [Beauty Scribbles]
